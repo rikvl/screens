@@ -18,6 +18,7 @@ Tutorials
    examples/single_screen
    examples/gen_velocities
    examples/fit_velocities
+   examples/extract_phys_pars
 
 Reference/API
 =============
